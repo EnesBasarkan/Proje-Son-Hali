@@ -1,0 +1,88 @@
+c:\users\kıvrak\documents\visual studio 2010\Projects\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+c:\users\kıvrak\documents\visual studio 2010\Projects\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+c:\users\kıvrak\documents\visual studio 2010\Projects\Foto Dükkanı\Foto Dükkanı\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kıvrak\documents\visual studio 2010\Projects\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+c:\users\kıvrak\documents\visual studio 2010\Projects\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\Kıvrak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\Kıvrak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\Kıvrak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kıvrak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\Kıvrak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\Burak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\Burak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\Burak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\Burak\Desktop\Proje\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+E:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+E:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+E:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+E:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+E:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+H:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+H:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+H:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+H:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+H:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+F:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+F:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+F:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+F:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+F:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+G:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+G:\Proje New\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+G:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+G:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+G:\Proje New\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+G:\Proje YEDEK - 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+G:\Proje YEDEK - 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+G:\Proje YEDEK - 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+G:\Proje YEDEK - 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+G:\Proje YEDEK - 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+F:\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+F:\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+F:\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+F:\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+F:\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\Öğrenci\Desktop\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\Öğrenci\Desktop\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\Öğrenci\Desktop\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\Öğrenci\Desktop\Proje YEDEK 20.03.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+F:\Proje YEDEK 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+F:\Proje YEDEK 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+F:\Proje YEDEK 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+F:\Proje YEDEK 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+F:\Proje YEDEK 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+F:\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+F:\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+F:\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+F:\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+F:\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\PC4\Desktop\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\PC4\Desktop\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\PC4\Desktop\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\PC4\Desktop\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\PC4\Desktop\Proje YEDEK2 29.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+D:\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+D:\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+D:\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\ResolveAssemblyReference.cache
+D:\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+D:\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll.config
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\Mustafa\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll.config
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\İSTech\Desktop\Proje YEDEK2 30.04.2013\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll.config
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.dll
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\bin\Foto Dükkanı.pdb
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.dll
+C:\Users\Mustafa\Desktop\Proje Son Hali\Foto Dükkanı\Foto Dükkanı\obj\Debug\Foto Dükkanı.pdb

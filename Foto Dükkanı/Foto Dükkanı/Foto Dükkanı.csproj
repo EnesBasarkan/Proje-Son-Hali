@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD197D27-6E71-4568-8BAF-6321E716D769}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Foto_Dükkanı</RootNamespace>
+    <AssemblyName>Foto Dükkanı</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin.aspx" />
+    <Content Include="Arama.aspx" />
+    <Content Include="css\animate-custom.css" />
+    <Content Include="css\custom.css" />
+    <Content Include="css\demo.css" />
+    <Content Include="css\fonts\BebasNeue-webfont.svg" />
+    <Content Include="css\fonts\Dharma Type Font License.txt" />
+    <Content Include="css\fonts\fontomas-webfont.svg" />
+    <Content Include="css\fonts\franchise-bold-webfont.svg" />
+    <Content Include="css\giris.css" />
+    <Content Include="css\iletişim.css" />
+    <Content Include="css\images\bg.jpg" />
+    <Content Include="css\images\border.gif" />
+    <Content Include="css\images\cart-price.gif" />
+    <Content Include="css\images\cart.gif" />
+    <Content Include="css\images\container-t.gif" />
+    <Content Include="css\images\field.gif" />
+    <Content Include="css\images\image1.jpg" />
+    <Content Include="css\images\image2.jpg" />
+    <Content Include="css\images\image3.jpg" />
+    <Content Include="css\images\image4.jpg" />
+    <Content Include="css\images\logo.png" />
+    <Content Include="css\images\logo1.gif" />
+    <Content Include="css\images\logo2.gif" />
+    <Content Include="css\images\logo3.gif" />
+    <Content Include="css\images\logo4.gif" />
+    <Content Include="css\images\logo5.gif" />
+    <Content Include="css\images\main.gif" />
+    <Content Include="css\images\next.gif" />
+    <Content Include="css\images\prev.gif" />
+    <Content Include="css\images\search.gif" />
+    <Content Include="css\images\slide1.png" />
+    <Content Include="css\images\slide2.jpg" />
+    <Content Include="css\images\tab.gif" />
+    <Content Include="css\images\Untitled-1.png" />
+    <Content Include="css\images\yonetimlogo.png" />
+    <Content Include="css\images\yukariarka.png" />
+    <Content Include="css\js\cufon2.js" />
+    <Content Include="css\js\cufon.js" />
+    <Content Include="css\popup.css" />
+    <Content Include="css\resim\benihatirla.png" />
+    <Content Include="css\resim\form-mail.png" />
+    <Content Include="css\resim\form-sifre.png" />
+    <Content Include="css\resim\form-user.png" />
+    <Content Include="css\slicebox.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\style2.css" />
+    <Content Include="images\1.jpg" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\3.jpg" />
+    <Content Include="images\4.jpg" />
+    <Content Include="images\5.jpg" />
+    <Content Include="images\6.jpg" />
+    <Content Include="images\7.jpg" />
+    <Content Include="images\ekle.png" />
+    <Content Include="images\fancy_deboss.png" />
+    <Content Include="images\güncelle.png" />
+    <Content Include="images\nav.png" />
+    <Content Include="images\options.png" />
+    <Content Include="images\shadow.png" />
+    <Content Include="images\sil.png" />
+    <Content Include="index.aspx" />
+    <Content Include="jquery iletişim formu\slick-ajax-contact-form-jquery-php\images\fighting-by-sea-and-sky.jpg" />
+    <Content Include="jquery iletişim formu\slick-ajax-contact-form-jquery-php\images\stamp.jpg" />
+    <Content Include="jquery iletişim formu\slick-ajax-contact-form-jquery-php\index.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\css\anythingzoomer.css" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\kryptos-front.jpg" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\kryptos-front_small.jpg" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\page.js" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\rushmore.jpg" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\rushmore_small.jpg" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\demo\style.css" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\double.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\image.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\index.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\js\jquery.anythingzoomer.js" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\js\jquery.anythingzoomer.min.js" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\swap.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\text.html" />
+    <Content Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\use.html" />
+    <Content Include="js\jquery-1.4.1.min.js" />
+    <Content Include="js\jquery-func.js" />
+    <Content Include="js\jquery.jcarousel.pack.js" />
+    <Content Include="js\jquery.slicebox.js" />
+    <Content Include="js\jquery.slide.js" />
+    <Content Include="js\modernizr.custom.46884.js" />
+    <Content Include="js\popup.js" />
+    <Content Include="Uye.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Arama.aspx.cs">
+      <DependentUpon>Arama.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Arama.aspx.designer.cs">
+      <DependentUpon>Arama.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Uye.aspx.cs">
+      <DependentUpon>Uye.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Uye.aspx.designer.cs">
+      <DependentUpon>Uye.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="css\.DS_Store" />
+    <Content Include="css\js\.DS_Store" />
+    <Content Include="css\fonts\BebasNeue-webfont.eot" />
+    <Content Include="css\fonts\BebasNeue-webfont.ttf" />
+    <Content Include="css\fonts\BebasNeue-webfont.woff" />
+    <Content Include="css\fonts\fontomas-webfont.eot" />
+    <Content Include="css\fonts\fontomas-webfont.ttf" />
+    <Content Include="css\fonts\fontomas-webfont.woff" />
+    <Content Include="css\fonts\franchise-bold-webfont.eot" />
+    <Content Include="css\fonts\franchise-bold-webfont.ttf" />
+    <Content Include="css\fonts\franchise-bold-webfont.woff" />
+    <None Include="images\.DS_Store" />
+    <None Include="images\Thumbs.db" />
+    <None Include="jquery iletişim formu\slick-ajax-contact-form-jquery-php\processForm.php" />
+    <None Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\anythingzoomer.jquery.json" />
+    <None Include="jquery-resim büyütme\CSS-Tricks-AnythingZoomer-f45cb36\README.markdown" />
+    <None Include="js\.DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Urun_Fotolari\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1683</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
